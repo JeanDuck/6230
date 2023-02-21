@@ -1,0 +1,15 @@
+/Users/zhupeihao/helloworld/bin/Debug/net7.0/helloworld
+/Users/zhupeihao/helloworld/bin/Debug/net7.0/helloworld.deps.json
+/Users/zhupeihao/helloworld/bin/Debug/net7.0/helloworld.runtimeconfig.json
+/Users/zhupeihao/helloworld/bin/Debug/net7.0/helloworld.dll
+/Users/zhupeihao/helloworld/bin/Debug/net7.0/helloworld.pdb
+/Users/zhupeihao/helloworld/obj/Debug/net7.0/helloworld.csproj.AssemblyReference.cache
+/Users/zhupeihao/helloworld/obj/Debug/net7.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhupeihao/helloworld/obj/Debug/net7.0/helloworld.AssemblyInfoInputs.cache
+/Users/zhupeihao/helloworld/obj/Debug/net7.0/helloworld.AssemblyInfo.cs
+/Users/zhupeihao/helloworld/obj/Debug/net7.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/zhupeihao/helloworld/obj/Debug/net7.0/helloworld.dll
+/Users/zhupeihao/helloworld/obj/Debug/net7.0/refint/helloworld.dll
+/Users/zhupeihao/helloworld/obj/Debug/net7.0/helloworld.pdb
+/Users/zhupeihao/helloworld/obj/Debug/net7.0/helloworld.genruntimeconfig.cache
+/Users/zhupeihao/helloworld/obj/Debug/net7.0/ref/helloworld.dll
