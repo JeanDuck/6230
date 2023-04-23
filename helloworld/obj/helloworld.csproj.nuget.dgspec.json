@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zhupeihao/helloworld/helloworld.csproj": {}
+    "/Users/zhupeihao/Desktop/6230/helloworld/helloworld.csproj": {}
   },
   "projects": {
-    "/Users/zhupeihao/helloworld/helloworld.csproj": {
+    "/Users/zhupeihao/Desktop/6230/helloworld/helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zhupeihao/helloworld/helloworld.csproj",
+        "projectUniqueName": "/Users/zhupeihao/Desktop/6230/helloworld/helloworld.csproj",
         "projectName": "helloworld",
-        "projectPath": "/Users/zhupeihao/helloworld/helloworld.csproj",
+        "projectPath": "/Users/zhupeihao/Desktop/6230/helloworld/helloworld.csproj",
         "packagesPath": "/Users/zhupeihao/.nuget/packages/",
-        "outputPath": "/Users/zhupeihao/helloworld/obj/",
+        "outputPath": "/Users/zhupeihao/Desktop/6230/helloworld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/zhupeihao/.nuget/NuGet/NuGet.Config"

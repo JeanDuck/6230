@@ -1,0 +1,1 @@
+short-term scheduling involves CPU utilization and response time, medium-term scheduling involves memory management, and long-term scheduling involves maintaining a balance between the degree of multiprogramming and system performance. Each type of scheduling is done in a different time frame and for a different purpose of managing processes in the operating system.

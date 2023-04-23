@@ -1,0 +1,6 @@
+process    turn around time
+p1           8
+p2           11.6
+p3           12
+
+Average turn around time = (8+11.6+12)/3 = 10.5333333

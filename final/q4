@@ -1,0 +1,2 @@
+example1: when the data set to be processed is small.
+example2: when the task involves mathematical calculations that are CPU-bound, such as matrix multiplication, sorting, or searching, then multithreading may not provide a significant improvement in performance. The reason is that the CPU will be busy executing the calculations, and adding more threads may not speed up the process.
